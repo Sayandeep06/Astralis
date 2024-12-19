@@ -1,4 +1,4 @@
-import Footer from "./components/footer.jsx";
+import Footer from "./components/Footer.jsx";
 import Sidebar from "./components/Sidebar.jsx";
 import Main from "./components/Main.jsx";
 import {useEffect, useState} from 'react';
